@@ -1,5 +1,19 @@
 # Changelog
 
+### [0.2.1](https://www.github.com/googleapis/java-recommender/compare/v0.2.0...v0.2.1) (2019-12-26)
+
+
+### Dependencies
+
+* update dependency io.grpc:grpc-bom to v1.26.0 ([#55](https://www.github.com/googleapis/java-recommender/issues/55)) ([93c483f](https://www.github.com/googleapis/java-recommender/commit/93c483f78b96161a7a25af4ff0c5abedb8343550))
+* update gax.version to v1.51.0 ([#42](https://www.github.com/googleapis/java-recommender/issues/42)) ([10d2b5c](https://www.github.com/googleapis/java-recommender/commit/10d2b5c319582ce966158492b96a9937b4f3163e))
+* update gax.version to v1.52.0 ([#49](https://www.github.com/googleapis/java-recommender/issues/49)) ([cbd2303](https://www.github.com/googleapis/java-recommender/commit/cbd23039af79688128bb5399e65a4aad57c7d20e))
+
+
+### Documentation
+
+* **regen:** updated javadocs from protoc update ([#48](https://www.github.com/googleapis/java-recommender/issues/48)) ([556abc0](https://www.github.com/googleapis/java-recommender/commit/556abc062afc77af1612ca42f387fe8da0e595fa))
+
 ## [0.2.0](https://www.github.com/googleapis/java-recommender/compare/v0.1.2...v0.2.0) (2019-12-05)
 
 
